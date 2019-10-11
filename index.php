@@ -61,6 +61,7 @@
           <tr>
         <td><h4 class="text-white"> Yogi Kusuma S| </h4></td>
         <td><h4 class="text-white"> 10116332 | </h4></td>
+        <td><a href="http://tugas1-master.herokuapp.com/">  kembali ke master| </h4></td>
       </tr>
               </div>
 			  </center>
